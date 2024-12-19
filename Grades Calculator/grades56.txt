@@ -1,0 +1,22 @@
+Student Number: 2305890
+Module 1: Module Code, 45, 20
+Module 2: Module Code, 65, 20
+Module 3: Module Code, 76, 20
+Module 4: Module Code, 56, 20
+Module 5: Module Code, 89, 20
+Module 6: Module Code, 98, 20
+Module 7: Module Code, Enter Grade, Enter Credits
+Module 8: Module Code, Enter Grade, Enter Credits
+Module 9: Module Code, Enter Grade, Enter Credits
+Module 10: Module Code, Enter Grade, Enter Credits
+Module 1: Module Code, 56, 20
+Module 2: Module Code, 65, 20
+Module 3: Module Code, 67, 20
+Module 4: Module Code, 78, 20
+Module 5: Module Code, 67, 20
+Module 6: Module Code, 45, 20
+Module 7: Module Code, Enter Grade, Enter Credits
+Module 8: Module Code, Enter Grade, Enter Credits
+Module 9: Module Code, Enter Grade, Enter Credits
+Module 10: Module Code, Enter Grade, Enter Credits
+
